@@ -4,7 +4,7 @@
 
 > ### Portfolio website using pure **Bootstarp5**
 
-<img src="./images/screenshot-mobile.PNG" width="30%" /><img src="./images/screenshot-desktop.PNG" width="70%" />
+<img src="./images/mobile-preview.PNG" width="30%" /><img src="./images/desktop-preview.PNG" width="70%" />
 
 ## Built With
 
@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@Bondok6](https://github.com/Bondok6)
+  - GitHub: [@Bondok6](https://github.com/Bondok6)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
